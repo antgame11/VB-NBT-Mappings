@@ -1,4 +1,4 @@
-# VB-NBT-Mappings
+# ViaBackwards NBT Mappings
 Used in tuffnet client
 
 # I DID THESE MAPPINGS MYSELF
